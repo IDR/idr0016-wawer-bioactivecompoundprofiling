@@ -102,4 +102,5 @@ advanced:
       - Cell Line
     - namespace: openmicroscopy.org/mapr/compound
       keys:
-      - Compound Name
+        - Compound Name
+        - Compound Name URL
